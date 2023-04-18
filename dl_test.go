@@ -1,4 +1,4 @@
-package dl
+package dynamic_loader
 
 import (
 	"os/exec"

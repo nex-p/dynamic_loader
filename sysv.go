@@ -1,6 +1,6 @@
 // +build !darwin
 
-package dl
+package dynamic_loader
 
 const (
 	LibExt = ".so"

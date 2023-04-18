@@ -1,4 +1,4 @@
-package dl_test
+package dynamic_loader_test
 
 import (
 	"bytes"

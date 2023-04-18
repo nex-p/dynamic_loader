@@ -1,4 +1,4 @@
-package dl
+package dynamic_loader
 
 // #include <dlfcn.h>
 // #include <stdlib.h>
